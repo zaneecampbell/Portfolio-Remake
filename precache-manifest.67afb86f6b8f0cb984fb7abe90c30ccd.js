@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a75ac047a9665e1b287c41f4733ff66",
+    "revision": "ae8b5a0214ccbfb649a98d44fbf16f72",
     "url": "/Portfolio-Remake/index.html"
   },
   {
-    "revision": "4aa2f5734fe012f8bccc",
+    "revision": "2f8110996cfa2c9c607e",
     "url": "/Portfolio-Remake/static/css/main.9ee2e248.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-Remake/static/js/2.27e6fff5.chunk.js"
   },
   {
-    "revision": "4aa2f5734fe012f8bccc",
-    "url": "/Portfolio-Remake/static/js/main.b5f0ca16.chunk.js"
+    "revision": "2f8110996cfa2c9c607e",
+    "url": "/Portfolio-Remake/static/js/main.0b9345fe.chunk.js"
   },
   {
     "revision": "8308d6f54a444bd721a4",
