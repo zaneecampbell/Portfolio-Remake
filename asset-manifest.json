@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio-Remake/static/css/main.9ee2e248.chunk.css",
-    "main.js": "/Portfolio-Remake/static/js/main.0b9345fe.chunk.js",
-    "main.js.map": "/Portfolio-Remake/static/js/main.0b9345fe.chunk.js.map",
-    "runtime~main.js": "/Portfolio-Remake/static/js/runtime~main.a2f537d1.js",
-    "runtime~main.js.map": "/Portfolio-Remake/static/js/runtime~main.a2f537d1.js.map",
-    "static/js/2.27e6fff5.chunk.js": "/Portfolio-Remake/static/js/2.27e6fff5.chunk.js",
-    "static/js/2.27e6fff5.chunk.js.map": "/Portfolio-Remake/static/js/2.27e6fff5.chunk.js.map",
-    "index.html": "/Portfolio-Remake/index.html",
-    "precache-manifest.67afb86f6b8f0cb984fb7abe90c30ccd.js": "/Portfolio-Remake/precache-manifest.67afb86f6b8f0cb984fb7abe90c30ccd.js",
-    "service-worker.js": "/Portfolio-Remake/service-worker.js",
-    "static/css/main.9ee2e248.chunk.css.map": "/Portfolio-Remake/static/css/main.9ee2e248.chunk.css.map"
+    "main.css": "/static/css/main.9ee2e248.chunk.css",
+    "main.js": "/static/js/main.0b9345fe.chunk.js",
+    "main.js.map": "/static/js/main.0b9345fe.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a7ca617d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a7ca617d.js.map",
+    "static/js/2.27e6fff5.chunk.js": "/static/js/2.27e6fff5.chunk.js",
+    "static/js/2.27e6fff5.chunk.js.map": "/static/js/2.27e6fff5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e00684d3ba5acca788ce823e89a30516.js": "/precache-manifest.e00684d3ba5acca788ce823e89a30516.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9ee2e248.chunk.css.map": "/static/css/main.9ee2e248.chunk.css.map"
   }
 }
