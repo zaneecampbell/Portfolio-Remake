@@ -1,0 +1,105 @@
+/* ~~~~~The Everything Section~~~~~ */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+/* ~~~~~The ParticleJS Section~~~~~ */
+
+.particle-div {
+  margin-top: 48px;
+  width: 100%;
+  height: calc(100vh - 48px) !important;
+  position: 'absolute';
+  z-index: -1;
+  background-color: #333333;
+}
+
+/* ~~~~~The Skills Section~~~~~ */
+
+#html5-svg:hover > path {
+  transition: 0.3s ease;
+  fill: #e34f26;
+}
+
+#css3-svg:hover > path {
+  transition: 0.3s ease;
+  fill: black;
+}
+
+#bootstrap-svg:hover #bootstrap1-svg {
+  transition: 0.3s ease;
+  fill: rgb(33.72549%, 23.921569%, 48.627451%);
+}
+
+#express-svg:hover > path {
+  transition: 0.3s ease;
+  fill: black;
+}
+
+#js-svg:hover > path {
+  transition: 0.3s ease;
+  fill: #f7df1e;
+}
+
+#nodejs-svg:hover > path {
+  transition: 0.3s ease;
+  fill: rgb(32.54902%, 61.960784%, 26.27451%);
+}
+
+#react-svg:hover > path {
+  transition: 0.3s ease;
+  fill: #61dafb;
+}
+
+#redux-svg:hover > path {
+  transition: 0.3s ease;
+  fill: #764abc;
+}
+
+#react-router-svg:hover #react-router-svg1 {
+  transition: 0.3s ease;
+  fill: #000000;
+}
+
+#react-router-svg:hover #react-router-svg2 {
+  transition: 0.3s ease;
+  fill: #d0021b;
+}
+
+#mongodb-svg:hover #mongodb-svg1 {
+  transition: 0.3s ease;
+  fill: rgb(65.098039%, 63.921569%, 52.156863%);
+}
+
+#mongodb-svg:hover #mongodb-svg2 {
+  transition: 0.3s ease;
+  fill: rgb(28.627451%, 61.568627%, 29.019608%);
+}
+
+#mongodb-svg:hover #mongodb-svg3 {
+  transition: 0.3s ease;
+  fill: rgb(34.509804%, 66.666667%, 31.372549%);
+}
+
+#git-svg:hover > path {
+  transition: 0.3s ease;
+  fill: #f05032;
+}
+
+#github-svg:hover > path {
+  transition: 0.3s ease;
+  fill: black;
+}
