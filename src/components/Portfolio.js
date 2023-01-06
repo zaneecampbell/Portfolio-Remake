@@ -26,7 +26,7 @@ const Portfolio = () => {
       <section data-aos='fade-right'>
         <Grid justify='center' container>
           <a
-            href='https://hiking-timeline.herokuapp.com/'
+            href='https://hiking-timeline.onrender.com/'
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -74,7 +74,7 @@ const Portfolio = () => {
                     paddingLeft: '15px',
                     color: '#e6e6e6'
                   }}
-                  href='https://hiking-timeline.herokuapp.com/'
+                  href='https://hiking-timeline.onrender.com/'
                   target='_blank'
                 >
                   Visit
