@@ -184,7 +184,7 @@ const Portfolio = () => {
               streamer/digital artists. Built using the MERN stack. Uses
               ReactStrap for styling and React-Router for routing. Email form
               runs server side sent through an online api to request commissions
-              from the artists. Hosted on Heroku.
+              from the artists.
               <br />
               <div style={{ textAlign: 'center' }}>
                 <Button
