@@ -90,7 +90,8 @@ export const About = props => {
               Outside of development I enjoy cooking and baking for friends.
               Anything from my mothers secret Sooner BBQ sauce to crème brûlée
               and full salmon dinners. I'm also an avid hiker with a small group
-              of friends, early up and early down almost every Friday.
+              of friends, early up and early down almost every Friday in the
+              middle of the year.
             </Typography>
           </Paper>
         </Grid>
@@ -110,7 +111,7 @@ export const About = props => {
               <Typography style={{ marginTop: '25px' }}>
                 For all skills check out my{' '}
                 <a
-                  href='https://zane-campbell-portfolio.herokuapp.com/Zane%20Campbell%20Resume.pdf'
+                  href='https://drive.google.com/file/d/1LDBwaOAlLEJ3H7sbP39QRBtn6EITWG03/view?usp=share_link'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
