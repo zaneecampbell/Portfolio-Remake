@@ -87,7 +87,7 @@ const Portfolio = () => {
       <section data-aos='fade-left'>
         <Grid style={{ marginTop: '100px' }} justify='center' container>
           <a
-            href='https://smile0399.github.io/'
+            href='https://pamtaylorkw.com/'
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -135,7 +135,7 @@ const Portfolio = () => {
                     color: '#e6e6e6'
                   }}
                   target='_blank'
-                  href='https://smile0399.github.io/'
+                  href='https://pamtaylorkw.com/'
                 >
                   Visit
                 </Button>
