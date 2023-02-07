@@ -152,7 +152,7 @@ const Portfolio = () => {
         <Grid style={{ marginTop: '100px' }} justify='center' container>
           <a
             style={{ background: 'white' }}
-            href='https://github.com/zaneecampbell/Conov-website'
+            href='https://github.com/zaneecampbell/conov-website-reupload'
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -198,7 +198,7 @@ const Portfolio = () => {
                     color: '#e6e6e6'
                   }}
                   target='_blank'
-                  href='https://github.com/zaneecampbell/Conov-website'
+                  href='https://github.com/zaneecampbell/conov-website-reupload'
                 >
                   Visit
                 </Button>
